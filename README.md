@@ -8,4 +8,5 @@
 
 ## 评测任务：小布助手对话式指代消解与省略恢复
 [数据下载](https://github.com/xiaobu-coai/smp-2021-coai/tree/main/track_02)
+
 [竞赛平台](https://www.biendata.xyz/competition/xiaobu/)
